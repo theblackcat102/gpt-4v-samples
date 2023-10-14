@@ -1,4 +1,7 @@
-# gpt-4v-samples
+# GPT-4V samples
+
+![Screenshot of GPT-4V conversations](./images/cover.png)
+
 Samples for GPT-4V response curated by myself
 
 [HF dataset](https://huggingface.co/datasets/theblackcat102/gpt-4v-eval-samples)
