@@ -5,24 +5,21 @@ Samples for GPT-4V response curated by myself
 
 Some topics I am exploring:
 
-1. PCB design
+1. Industry use : PCB design, defect detection in semicon
 
-2. Defect detection in semicon
+2. Anime, meme, abstract drawings
 
-3. Anime, meme, abstract drawings
+3. Animal or food recognition in captcha fashion
 
-4. Animal or food recognition in captcha fashion
+4. chart, flow chart, aws diagram, random drawings...
 
-5. chart, flow chart, aws diagram...
-
-6. Wireframe to code
+5. Wireframe, screenshot to code
 
 ## Some random conclusion:
 
 1. The OCR ability is limited under english, for non-english languages its mostly just guessing.
 
 2. Non english and vision alignment is still not very good, so I have sticked to english conversations for now.
-
 
 ## Contribution Guide
 
