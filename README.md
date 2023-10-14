@@ -1,6 +1,7 @@
 # gpt-4v-samples
 Samples for GPT-4V response curated by myself
 
+[HF dataset](https://huggingface.co/datasets/theblackcat102/gpt-4v-eval-samples)
 
 Some topics I am exploring:
 
