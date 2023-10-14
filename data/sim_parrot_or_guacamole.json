@@ -1,0 +1,4 @@
+[
+    {"human": "Please tell me what is it in each cell in a tabular format aligned with this picture grid"},
+    {"gpt": "Sure, based on the given image, here's a tabular description of each cell:\n\n| Row | Cell 1             | Cell 2        | Cell 3             | Cell 4       |\n|-----|--------------------|---------------|--------------------|--------------|\n| 1   | Green Parrot       | Guacamole     | Parrot with fruit  | Guacamole    |\n| 2   | Guacamole    |    Parrot preening  | Guacamole   | Parrots cuddling    |\n| 3   | Close-up of Parrot | Guacamole     | Screaming Parrot   | Guacamole    |\n| 4   | Guacamole          | Red-crowned Parrot | Guacamole    | Green Parrot |\n\nNote: The descriptions are based on the visuals, and the parrots might belong to different species, but I've generalized them as \"parrots\" in this table."}
+]

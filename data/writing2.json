@@ -1,0 +1,4 @@
+[
+    {"human": "Look at this image closely, what is A,B,C connected to? You must be very careful"},
+    {"gpt": "From the image:\r\n\r\n- A is connected to 2.\r\n- B is connected to 1.\r\n- C is connected to 3."}
+]

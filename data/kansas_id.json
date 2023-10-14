@@ -1,0 +1,4 @@
+[
+    {"human": "Please read the text in this image and return the information in the following JSON format (note xxx is placeholder, if the information is not available in the image, put \"N/A\" instead).\n{\"class\": xxx, \"DLN\": xxx, \"DOB\": xxx, \"Name\": xxx, \"Address\": xxx, \"EXP\": xxx, \"ISS\": xxx, \"SEX\": xxx, \"HGT\": xxx, \"WGT\": xxx, \"EYES\": xxx, \"HAIR\": xxx, \"DONOR\": xxx}"},
+    {"gpt": "{\n  \"class\": \"A\",\n  \"DLN\": \"K12-34-5678\",\n  \"DOB\": \"01/11/1966\",\n  \"Name\": \"CARON ELIZABETH SAMPLE\",\n  \"Address\": \"123 NORTH STREET APT. 2, TOPEKA, KS 66612-1234\",\n  \"EXP\": \"01/11/2023\",\n  \"ISS\": \"01/11/2017\",\n  \"SEX\": \"F\",\n  \"HGT\": \"5-06\",\n  \"WGT\": \"140 lb\",\n  \"EYES\": \"BRO\",\n  \"HAIR\": \"N/A\",\n  \"DONOR\": \"❤️\"\n}"}
+]

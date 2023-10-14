@@ -1,0 +1,4 @@
+[
+    {"human": "tell me the weather, location and number of people in JSON"},
+    {"gpt": "{\r\n  \"weather\": {\r\n    \"current_temperature\": \"19\u00B0C\",\r\n    \"high_temperature\": \"25\u00B0C\",\r\n    \"low_temperature\": \"17.7\u00B0C\",\r\n    \"forecast\": [\r\n      {\"date\": \"October 4-16\", \"temperature_range\": \"26\u00B0C - 16\u00B0C\"}\r\n    ],\r\n    \"humidity\": \"96%\",\r\n    \"wind_speed\": \"2 m\/s\",\r\n    \"cloud_cover\": \"Cloudy\"\r\n  },\r\n  \"location\": \"Unknown (The image depicts a street with various signs in what appears to be a Japanese setting)\",\r\n  \"number_of_people\": \"Cannot specify an exact number from the image\"\r\n}"}
+]
