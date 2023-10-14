@@ -46,6 +46,8 @@ The json format should be as follows:
 ]
 ```
 
-The conversations should be in english (what GPT-4V best in)
+The conversations should be in english (what GPT-4V best in) and focus in challenging what the vision section could extract and express it in text. So most questions should start with probing what the vision model can see.
+
+I don't prefer asking any questions which requires language reasoning ( example:  give me ideas of XXX ) cause its already pretty good in the original GPT-4 model. But if your contribution is a good question then it should be a pass for me.
 
 Currently due to limitation of huggingface dataset schema, only 1 image are allowed to pair with a conversations. So we had to work with this unless someone had a better proposal.
