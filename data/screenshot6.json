@@ -1,0 +1,4 @@
+[
+    {"human": "What does this image show?"},
+    {"gpt": "The image displays a battle scene from a Pok\u00E9mon game. In the battle, there are two Pok\u00E9mon facing each other:\r\n\r\n1. Seel: It's a Water-type Pok\u00E9mon and appears to be at level 36. It looks like a white seal with a horn on its head.\r\n \r\n2. Raichu: It's an Electric-type Pok\u00E9mon and is at level 51. Raichu resembles a large, yellow rodent with pointy ears and a long tail that ends with a lightning bolt shape.\r\n\r\nBelow the Pok\u00E9mon, there are options for the player to choose what Raichu should do next. The options displayed are \"FIGHT,\" \"BAG,\" and \"RUN.\" This is a typical interface for Pok\u00E9mon games, where players can choose to engage in battle, use an item from their bag, or flee from the encounter."}
+]
