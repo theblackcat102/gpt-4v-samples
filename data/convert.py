@@ -54,7 +54,6 @@ def transform_data():
 if __name__ == "__main__":
     transform_data()
     dataset = load_dataset('hf_dataset')
-    print(dataset['test'][0])
     dataset.push_to_hub("theblackcat102/gpt-4v-eval-samples")
     # dataset = load_dataset("theblackcat102/gpt-4v-eval-samples")['test']
     # print(dataset[2])
