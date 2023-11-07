@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Can you interpret the primary message this graph is trying to deliver?"
+    },
+    {
+        "gpt": "The graph titled \"Fewer Hearing 'Mostly Bad' Economic News\" presents the percentage of people who heard varying types of economic news from December 2008 to January 2011. The main message conveyed is:\r\n\r\nFrom December 2008 to January 2011, the percentage of people who heard \"Mostly bad news\" about the economy decreased from a high of 80% in December 2008 to 39% in January 2011. Concurrently, the percentage of people who heard a \"Mix of good and bad news\" increased, peaking at 68% multiple times. The percentage of people who heard \"Mostly good news\" remained relatively low throughout the period, with a slight increase to 7% by January 2011. \r\n\r\nIn essence, over this time frame, there was a decline in the perception of purely negative economic news and an increase in mixed perceptions, while purely positive economic news remained low."
+    }
+]

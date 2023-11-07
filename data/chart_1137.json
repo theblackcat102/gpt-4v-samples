@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Can you reproduce the chart's data in a matrix format?"
+    },
+    {
+        "gpt": "Yes, based on the provided image, the data can be represented in a matrix format as follows:\r\n\r\n|                      | % Believing Online Courses Offer Equal Value |\r\n|----------------------|----------------------------------------------|\r\n| General public       | 29                                          |\r\n| College presidents   | 51                                          |"
+    }
+]

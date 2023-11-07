@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Could you reformat the graph data into a spreadsheet format?"
+    },
+    {
+        "gpt": "Sure, here's the data from the graph formatted into a spreadsheet-like format:\r\n\r\n```\r\n-----------------------------------------------------------------------------\r\n|                              | Major (%) | Minor (%) | Not much (%) |\r\n-----------------------------------------------------------------------------\r\n| Total                        | 66        | 27        | 6            |\r\n-----------------------------------------------------------------------------\r\n| Rep\/Lean Rep                 | 39        | 48        | 13           |\r\n-----------------------------------------------------------------------------\r\n| Dem\/Lean Dem                 | 82        | 15        | 2            |\r\n-----------------------------------------------------------------------------\r\n\r\n-----------------------------------------------------------------------------\r\n|                                      | Rep\/Lean Rep (%) | Total (%) | Dem\/Lean Dem (%) |\r\n-----------------------------------------------------------------------------\r\n| Very likely foreign influence        | 51               | 81        | 92               |\r\n-----------------------------------------------------------------------------\r\n| Somewhat likely foreign influence    | 30               | 47        | 63               |\r\n-----------------------------------------------------------------------------\r\n```\r\n\r\nNote: This is a textual representation of a spreadsheet format. Actual spreadsheet software would allow you to organize and display this data in rows and columns visually."
+    }
+]

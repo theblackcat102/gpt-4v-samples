@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Generate a detailed description suited for this image, you must include the global scene, each subjects and lighting condition. If any text present you must include the OCR result as well"
+    },
+    {
+        "gpt": "**Description:**\r\n\r\nThe image captures a picturesque scene in a mountainous region, presumably in Switzerland. Dominating the backdrop are majestic snow-capped mountains with rugged peaks and forested slopes, set against a partly cloudy sky. \r\n\r\nIn the middle ground, a row of dark brown chalet-style buildings with slanted roofs is visible. These buildings have multiple windows and are located alongside a road or railway track. The buildings are shaded, indicating that they are not in direct sunlight, possibly due to the angle of the sun or cloud cover.\r\n\r\nIn the foreground, there's a red and white train with \"SBB CFF FFS\" written on its side, indicating it's a Swiss Federal Railways train. The train has a \"2\" on its door, suggesting it's a second-class carriage. This train is brightly lit, suggesting it's either in direct sunlight or under strong artificial lighting. Beside the train track is a construction or storage area with stacks of materials, possibly wooden planks or metal bars, organized in piles. There's a sign that reads \"Frutiger\" among the stacked materials.\r\n\r\nA watermark at the bottom left corner indicates the image was taken by \"Salvis Are\" in 2009. \r\n\r\n**OCR Results:**\r\n- SBB CFF FFS\r\n- 2\r\n- Frutiger\r\n- Salvis Are 2009"
+    }
+]

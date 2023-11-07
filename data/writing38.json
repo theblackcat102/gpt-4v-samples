@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, here's the information from the cheque in a JSON format:\r\n\r\n```json\r\n{\r\n  \"Serial Number\": \"N\u00BA05346277\",\r\n  \"Issue Date\": \"26 de NOVIEMBRE 2013\",\r\n  \"Payment Date\": \"27 de FEBRERO 2014\",\r\n  \"Amount (Numeric)\": \"$7600\",\r\n  \"Amount (Text)\": \"SIETE MIL SEISCIENTOS\",\r\n  \"Account Information\": {\r\n    \"Number\": \"470-20-002736-9-00\",\r\n    \"Address\": \"AV PASEO COLON 221 & CIUDAD AUTONOMA BUENO\"\r\n  },\r\n  \"Company Information\": {\r\n    \"CUIT\": \"30652868885\",\r\n    \"Name\": \"EDICIONES B ARGENTINA SA\",\r\n    \"CBU\": \"017049702000000073891\",\r\n    \"Main Office Address\": \"RECONQUISTA 40, Capital Federal\"\r\n  },\r\n  \"Stamp\": \"EDICIONES B ARGENTINA S.A. APROBADO\"\r\n}\r\n```\r\n\r\nPlease review the JSON for accuracy and make sure all the details are correct."
+  }
+]

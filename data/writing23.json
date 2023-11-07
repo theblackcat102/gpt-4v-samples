@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, I can help with that. Here's the extracted information from the cheque in JSON format:\r\n\r\n```json\r\n{\r\n  \"Issuer\": \"SUSANA MARTINEZ INAUGURAL COMMITTEE\",\r\n  \"Address\": \"P.O. BOX 30046, ALBUQUERQUE, NM 87190\",\r\n  \"ChequeNumber\": \"1011\",\r\n  \"Date\": \"1-27-11\",\r\n  \"PayToTheOrderOf\": \"C. [Partly Obscured] PRODUCTION & PUBLIC RELATIONS\",\r\n  \"AmountInWords\": \"THIRTY SIX THOUSAND FOUR HUNDRED FORTY AND 22\/100\",\r\n  \"AmountInNumbers\": \"$36,440.22\",\r\n  \"Bank\": \"Wells Fargo Bank, New Mexico\",\r\n  \"Memo\": \"[Obscured]\",\r\n  \"Signature\": \"[Signed but not readable]\",\r\n  \"RoutingNumber\": \"[Partly Visible]\",\r\n  \"AccountNumber\": \"[Obscured]\"\r\n}\r\n```\r\n\r\nNote: Some of the information was obscured or partly visible in the provided image. The JSON provided is based on the visible content."
+  }
+]

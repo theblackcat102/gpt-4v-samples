@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Help me extract information in this image into JSON"
+  },
+  {
+    "gpt": "Here's the information extracted from the image in a JSON format:\r\n\r\n```json\r\n{\r\n  \"Title\": \"\u52D5\u753B\u306E\u5206\u6790\u60C5\u5831\",\r\n  \"Channel\": {\r\n    \"Name\": \"\u672A\u77E5\u306E\u6599\u7406\u756A\u7D44\",\r\n    \"Image\": \"There's a thumbnail with multiple people on it.\"\r\n  },\r\n  \"Video_Information\": {\r\n    \"Likes\": 75,\r\n    \"Average_View_Duration\": \"7:37\",\r\n    \"Percentage_View_Duration\": 54.3\r\n  },\r\n  \"Time_Series\": {\r\n    \"View_Percentage\": {\r\n      \"Start\": 0,\r\n      \"End\": \"7:37\",\r\n      \"Maximum_Percentage\": \"100%\",\r\n      \"Minimum_Percentage\": \"0%\",\r\n      \"End_Percentage\": \"54.3%\"\r\n    }\r\n  },\r\n  \"Audience_Retention\": \"96.0%\",\r\n  \"Audience_Loyalty\": \"96.9%\"\r\n}\r\n```\r\n\r\nPlease note that some parts of the image are in Japanese, and I've translated them for better clarity."
+  }
+]

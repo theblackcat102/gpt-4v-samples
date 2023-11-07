@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, here's the extracted information in JSON format:\r\n\r\n```json\r\n{\r\n    \"Bank\": \"Banco de la Provincia de Buenos Aires\",\r\n    \"Location\": \"MORENO, Provincia de Buenos Aires\",\r\n    \"Date\": \"El 22 de Diciembre de 2013\",\r\n    \"Cheque Type\": \"CHEQUE DE PAGO DIFERIDO - CPD\",\r\n    \"Payment Due Date\": \"La fecha de pago no exceder un plazo de 360 dias\",\r\n    \"Pay To\": \"Not clearly visible\",\r\n    \"Amount In Words\": \"LA CANTIDAD DE PESOS dosmil\",\r\n    \"Amount In Numbers\": \"$2000.0\",\r\n    \"Account Number\": \"CTA: 5126-502421\/1\",\r\n    \"Entity\": \"ASISMED SA\",\r\n    \"CUI\": \"30-85173723-7\",\r\n    \"Branch\": \"SUCURSAL MORENO\",\r\n    \"Branch Address\": \"AVDA LIBERTADOR N.310 (1744)-MORENO-BUENOS AIRES\"\r\n}\r\n```\r\n\r\nPlease note that some fields might not be complete or might contain inaccuracies due to the image's quality and handwriting. Always double-check with the original document for accuracy."
+  }
+]

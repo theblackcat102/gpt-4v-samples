@@ -1,0 +1,8 @@
+[
+  {
+    "human": "What does this slide specifically want to highlight?"
+  },
+  {
+    "gpt": "This slide is designed to highlight two main points regarding the state of health apps:\r\n\r\n1. The significant growth in health and fitness app downloads between 2015 and 2016, both in the United States and the rest of the world (RoW), with a special emphasis on the rapid increase in the rest of the world (15% year-over-year) compared to the United States (5% year-over-year). The bar chart shows this growth in millions of downloads, illustrating that while the US market is substantial, the international market is expanding at a faster rate.\r\n\r\n2. The distribution of health app categories globally in 2015, as shown by the pie chart. It breaks down the types of health apps being downloaded into five categories: Fitness, Diet & Nutrition, Lifestyle & Stress, Disease & Treatment, and Other. The pie chart emphasizes that the largest share of downloads is for Fitness apps (36%), followed by Diet & Nutrition (24%), and Lifestyle & Stress (17%).\r\n\r\nAdditionally, the slide notes that the focus on data for app downloads is from iOS App Store and Google Play, and the Rest of World data in the App Annie chart does not include China\u2019s downloads on other app stores. This detail suggests that the data presented may not capture the full scope of global downloads but still provides insight into general trends. The source of the data is attributed to App Annie and IMS Health. The slide is from the KP INTERNET TRENDS 2017 report on page 297, indicating its inclusion in a broader discussion of internet usage trends."
+  }
+]

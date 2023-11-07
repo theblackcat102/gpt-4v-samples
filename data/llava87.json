@@ -1,0 +1,14 @@
+[
+    {
+        "human": "How many mirrors are in the image?"
+    },
+    {
+        "gpt": "There are three mirrors in the image."
+    },
+    {
+        "human": "What subject can be seen in these mirrors?"
+    },
+    {
+        "gpt": "In the mirrors, there is a person taking a photo and a cat."
+    }
+]

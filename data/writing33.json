@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, here's the information extracted from the cheque in JSON format:\r\n\r\n```json\r\n{\r\n  \"Bank\": \"SUPERVIELLE BANCO\",\r\n  \"Cheque_Type\": \"CHEQUE DE PAGO DIFERIDO-CPD\",\r\n  \"Payment_Date_Limit\": \"360 d\u00EDas\",\r\n  \"City\": \"BUENOS AIRES\",\r\n  \"Date_Issued\": \"6 DE Diciembre DE 2013\",\r\n  \"Payment_Date\": \"31 DE Enero DE 2014\",\r\n  \"Payee\": \"\",\r\n  \"Amount_In_Words\": \"quinze mil\",\r\n  \"Amount_Numeric\": \"15000\",\r\n  \"Account_Details\": {\r\n    \"Account_Number\": \"052-002236152-004\",\r\n    \"Expiration_Date\": \"(02\/13)\",\r\n    \"Holder_Name\": \"SPERONI ANALIA\",\r\n    \"Address\": \"CONDE DE LA BAHIA 2 TORR3B PORTEZU O\",\r\n    \"CUIL\": \"27-14495328-8\",\r\n    \"Holder_Name2\": \"SPERONI, ANALIA STELLA MARIS\"\r\n  },\r\n  \"Branch_Details\": {\r\n    \"Name\": \"Imprenta Av. LUIS M. CAMPOS 1201\",\r\n    \"Location\": \"CABA\"\r\n  },\r\n  \"Cheque_Serial_Info\": {\r\n    \"SERIE\": \"82500295\",\r\n    \"Amount\": \"15000\",\r\n    \"Series_Number\": \"027-052-34263 82500295 1\",\r\n    \"Other_Numbers\": \"0223152004 7\"\r\n  },\r\n  \"Signature\": \"Annotated as a signature but not transcribed due to sensitivity\"\r\n}\r\n```\r\n\r\nNote: The exact content and fields might vary depending on the specifics of the cheque, and sensitive information like signatures has been noted but not transcribed."
+  }
+]

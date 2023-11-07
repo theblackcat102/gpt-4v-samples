@@ -1,0 +1,8 @@
+[
+  {
+    "human": "What is the main message or purpose being conveyed by this slide?"
+  },
+  {
+    "gpt": "The main message of this slide is to present an overview of the company's financial performance, specifically detailing the income statement and cash flow statement for the year ended December 31, 2020. It highlights key financial figures, including total revenues, costs, operating expenses, and net loss from the income statement, as well as details of cash flows from operating, investing, and financing activities. The purpose is to give stakeholders a clear and concise summary of the company's financial activities and results for the year in question, indicating both profitability and liquidity status. The slide indicates the company incurred a net loss of $1.1 million, had a total operating expense of $12.9 million leading to a loss from operations, and a significant net cash inflow from financing activities at $29.2 million, which contributed to an increase in cash and cash equivalents from $4.2 million at the beginning of the year to $32.1 million at the end of the year."
+  }
+]

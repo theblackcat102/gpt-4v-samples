@@ -1,0 +1,14 @@
+[
+    {
+        "human": "Where is the piece of broccoli located in the image?"
+    },
+    {
+        "gpt": "The piece of broccoli is located on the car's dashboard."
+    },
+    {
+        "human": "Any cars in the image?"
+    },
+    {
+        "gpt": "Yes, there are cars visible outside, parked on the street in the image."
+    }
+]

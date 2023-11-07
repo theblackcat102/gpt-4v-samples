@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Please break down the data used in the construction of this chart."
+    },
+    {
+        "gpt": "The chart is titled \"Concern about Local Jobs Rising Again\" and represents data over a span of 5 years, from 2001 to 2005.\r\n\r\nThere are two data series plotted on the chart:\r\n\r\n1. **Jobs difficult to find**:\r\n   - 2001: 44%\r\n   - 2002: 59%\r\n   - 2003: 66%\r\n   - 2004: 52%\r\n   - 2005: 60%\r\n\r\n2. **Plenty of jobs**:\r\n   - 2001: 42%\r\n   - 2002: 31%\r\n   - 2003: 24%\r\n   - 2004: 31%\r\n   - 2005: 30%\r\n\r\nFrom the data, it can be observed that the percentage of people finding jobs difficult to locate peaked in 2003 at 66% and then declined in 2004 before rising slightly in 2005. On the other hand, the percentage of people who felt there were plenty of jobs decreased from 2001 to 2003, then increased in 2004, and slightly decreased again in 2005."
+    }
+]

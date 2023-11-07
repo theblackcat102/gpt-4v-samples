@@ -1,0 +1,14 @@
+[
+    {
+        "human": "How many zebras are in the image?"
+    },
+    {
+        "gpt": "There are two zebras in the image."
+    },
+    {
+        "human": "Where are they located? environmentlly"
+    },
+    {
+        "gpt": "The zebras are located in a grassy field in front of a large, historic-looking house or mansion. The setting appears to be a well-maintained estate or park-like environment, with trees in the background."
+    }
+]

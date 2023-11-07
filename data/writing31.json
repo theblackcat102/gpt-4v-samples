@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, here's the information from the cheques in a JSON format:\r\n\r\n```json\r\n[\r\n  {\r\n    \"chequeType\": \"CHEQUE DE PAGO DIFERIDO - CPD\",\r\n    \"serie\": \"58821340\",\r\n    \"dateIssued\": \"19 de Diciembre 2023\",\r\n    \"dateDue\": \"31 de Enero 2014\",\r\n    \"amountInWords\": \"SEIS m1\",\r\n    \"branch\": \"FILIAL VILLA MARTELLI\",\r\n    \"address\": \"MANSO GRAU 281 0 VILLA MARTELLI 1603\",\r\n    \"paymentAddress\": \"LAPRIDA 3499 1630 VILLA MARTELLI BUENOS AIRES\",\r\n    \"code\": \"191-069-1603 0 58821340 1 13100017692 4\"\r\n  },\r\n  {\r\n    \"chequeType\": \"CHEQUE DE PAGO DIFERIDO - CPD\",\r\n    \"serie\": \"58821333\",\r\n    \"dateIssued\": \"2 de Diciembre 2023\",\r\n    \"dateDue\": \"1 de Enero 2014\",\r\n    \"amountInWords\": \"MIL NOVECIENTOS\",\r\n    \"branch\": \"FILIAL VILLA MARTELLI\",\r\n    \"address\": \"MANSO GRAU 281 0 VILLA MARTELLI 1603\",\r\n    \"paymentAddress\": \"LAPRIDA 3499 1630 VILLA MARTELLI BUENOS AIRES\",\r\n    \"code\": \"191-069-1603 0 58821333 3 14300017692 7\"\r\n  }\r\n]\r\n```\r\n\r\nPlease note: Some data like the \"amountInWords\" seems to have some inconsistencies or might be incomplete. Ensure to validate the data for accuracy before using it."
+  }
+]

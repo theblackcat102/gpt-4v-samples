@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Could you convert the statistics from this graph into a table?"
+    },
+    {
+        "gpt": "Yes. Here's the information from the graph converted into a table format:\r\n\r\n| Cause of Online Harassment | Percentage of U.S. adults affected |\r\n|----------------------------|-----------------------------------|\r\n| Political views            | 14%                               |\r\n| Physical appearance        | 9%                                |\r\n| Gender                     | 8%                                |\r\n| Race\/ethnicity             | 8%                                |\r\n| Religion                   | 5%                                |\r\n| Sexual orientation         | 3%                                |\r\n| Occupation                 | 3%                                |\r\n| Disability                 | 1%                                |\r\n\r\nNote: The total may not add to 100% because respondents could select multiple options. The source is from a survey conducted on Jan. 9-23, 2017, titled \"Online Harassment 2017\" by Pew Research Center."
+    }
+]

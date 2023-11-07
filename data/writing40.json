@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, based on the visible information from the cheque, here is a JSON representation:\r\n\r\n```json\r\n{\r\n  \"Type\": \"Cheque de Pago Diferido\",\r\n  \"Cheque Number\": \"710346489\",\r\n  \"Amount\": \"$12.000\",\r\n  \"Date\": \"01 Noviembre 2015\",\r\n  \"Bank\": \"Banco de la Provincia de Buenos Aires\",\r\n  \"City\": \"Ciudad Evita\",\r\n  \"Beneficiary\": \"Essenc Tek S.A.\",\r\n  \"Account Number\": \"5054-031983\",\r\n  \"CUIT\": \"20-231382-6\",\r\n  \"Delegation\": \"Delegacion Ciudad Evita\",\r\n  \"Payment Address\": \"Avda. Belivacqua n 1881-(1778)-Ciudad Evita-Buenos Aires\"\r\n}\r\n```\r\n\r\nNote: This information is solely based on the visible content of the image. Please ensure that all sensitive data is kept private and secure."
+  }
+]

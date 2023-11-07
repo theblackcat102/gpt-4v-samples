@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Generate a detailed description in one paragraph which contains any text in this scene,  overall lighting, global context like background, human emotion, human action of this image? Just give me the description, skip all affirmative wording"
+    },
+    {
+        "gpt": "The image showcases a classic yellow school bus stationed in what appears to be an open parking lot. The bus prominently displays the text \"LOS ANGELES UNIFIED SCHOOL DISTRICT\" along its side, and its identification number \"3105\" can be seen near the front. The surrounding environment is quite vast and open, with the expansive blue sky overhead and the uniform flatness of the parking lot extending to the horizon. There are no discernible human figures within this scene, and thus no human emotions or actions can be inferred. The daylight shines brightly, casting soft shadows underneath the bus and suggesting a clear day."
+    }
+]

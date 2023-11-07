@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, here's the extracted information from the cheque in JSON format:\r\n\r\n```json\r\n{\r\n    \"Bank\": \"Macro\",\r\n    \"Cheque_Type\": \"CHEQUE DE PAGO DIFERIDO - CPD\",\r\n    \"Series\": \"Serie B\",\r\n    \"Cheque_Number\": \"19341743\",\r\n    \"Issue_Date\": \"31 Diciembre 2013\",\r\n    \"Payee\": \"DUARTE DIEGO MARTIN\",\r\n    \"Amount\": \"$ 9,211.84\",\r\n    \"Amount_In_Words\": \"Nueve Mil Doscientos Once Con 84 Centavos\",\r\n    \"Account_Info\": {\r\n        \"CUT\": \"CUT y TEYLEMA\",\r\n        \"Address\": \"J.B.RIVERA y CAPITAL FEDERAL (BA80)\"\r\n    },\r\n    \"Bank_Branch\": \"SUCURSAL MICROCENTRO\",\r\n    \"Bank_Branch_Address\": \"SARMIENTO 3351 10CH.FED.\"\r\n}\r\n```\r\n\r\nPlease note that this is a transcription of the visible details in the image, and accuracy may vary based on the clarity and completeness of the original image. Always verify the details manually before using them for any official purposes."
+  }
+]

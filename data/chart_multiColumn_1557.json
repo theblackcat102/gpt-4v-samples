@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Can you transform the data from this chart into a structured format?"
+    },
+    {
+        "gpt": "Yes, here's the data from the chart in a structured format:\r\n\r\n``` \r\nCategory                               | Will focus too much (%) | Will not focus enough (%)\r\n---------------------------------------|-------------------------|-------------------------\r\nDem\/Lean Dem                           | 51                      | 47\r\nCons\/Mod (Conservative\/Moderate) Dems  | 55                      | 43\r\nLiberal Dems                           | 46                      | 52\r\n```\r\n\r\nNote: The percentages represent the proportion of Democrats and Democratic leaners who are more concerned in the respective categories. The source of the data is the Pew Research Center, based on a survey conducted from April 29-May 13, 2019."
+    }
+]

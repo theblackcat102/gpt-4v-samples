@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Could you detail the data used to create this graph, including any categories and numerical values?"
+    },
+    {
+        "gpt": "The graph displays data concerning Chinese beliefs about Japan's apology for its military actions during the 1930s and 1940s. Here are the details:\r\n\r\n**Year vs. Percentage of Chinese Respondents:**\r\n\r\n**2016:**\r\n- Not apologized: 77%\r\n- Apologized sufficiently: 10%\r\n- No apology necessary: 2%\r\n\r\n**2013:**\r\n- Not apologized: 78%\r\n- Apologized sufficiently: 4%\r\n- No apology necessary: 2%\r\n\r\n**2008:**\r\n- Not apologized: 76%\r\n- Apologized sufficiently: 8%\r\n- No apology necessary: 2%\r\n\r\n**2006:**\r\n- Not apologized: 81%\r\n- Apologized sufficiently: 3%\r\n- No apology necessary: 4%\r\n\r\nThe source of this data is the \"Spring 2016 Global Attitudes Survey. Q84.\" by PEW RESEARCH CENTER."
+    }
+]

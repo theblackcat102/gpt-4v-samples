@@ -1,0 +1,4 @@
+[
+    {"human": "Please translate the code into text, I want the code to be formatted correctly"},
+    {"gpt": "Certainly! Here's the code you provided, formatted in text:\r\n\r\n```swift\r\nstruct ContentView: View {\r\n    var countries = [\"Estonia\", \"France\", \"Germany\", \"Ireland\", \"Italy\", \"Nigeria\", \"Poland\", \"Spain\", \"UK\", \"Ukraine\", \"US\"]\r\n    var correctAnswer = Int.random(in: 0...2)\r\n\r\n    var body: some View {\r\n        VStack(spacing: 30) {\r\n            VStack {\r\n                Text(\"Tap the flag of\")\r\n                Text(countries[correctAnswer])\r\n            }\r\n            \r\n            ForEach(0..<3) { number in\r\n                Button {\r\n                    \/\/ flag was tapped\r\n                } label: {\r\n                    Image(countries[number])\r\n                }\r\n            }\r\n        }\r\n    }\r\n}\r\n```\r\n\r\nI've formatted the code to ensure proper indentation and clarity."}
+]

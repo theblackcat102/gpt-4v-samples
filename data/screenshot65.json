@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Extract any information in this into a structured json"
+  },
+  {
+    "gpt": "Here's the extracted data in a structured JSON format:\r\n\r\n```json\r\n{\r\n  \"videoTitle\": \"Who needs the battlepass?\",\r\n  \"videoDescription\": {\r\n    \"text\": \"Like + Follow + Share and comment\",\r\n    \"number\": \"51393S\",\r\n    \"label\": \"BUNDLE\"\r\n  },\r\n  \"postDetails\": {\r\n    \"date\": \"02-21-2020\",\r\n    \"time\": \"20:37\"\r\n  },\r\n  \"stats\": {\r\n    \"likes\": 10022,\r\n    \"comments\": 4916,\r\n    \"shares\": 622,\r\n    \"totalPlayTime\": \"174h:58m:0s\",\r\n    \"totalViews\": 63859,\r\n    \"averageWatchTime\": \"10s\"\r\n  },\r\n  \"trafficSourceTypes\": {\r\n    \"forYou\": \"78%\",\r\n    \"following\": \"14%\",\r\n    \"sound\": \"3%\"\r\n  }\r\n}\r\n```\r\n\r\nNote: I've made assumptions about the context of some fields for clarity in the JSON structure."
+  }
+]

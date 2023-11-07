@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Extract any information in this into a structured json"
+  },
+  {
+    "gpt": "Here's the extracted information from the image in a structured JSON format:\r\n\r\n```json\r\n{\r\n  \"Analytics\": {\r\n    \"Date since post\": \"02-20-2019 20:00\",\r\n    \"Data\": {\r\n      \"Total Play Time\": \"123hr45m56s\",\r\n      \"Total Views\": 9333345,\r\n      \"Average Watch Time\": 10.45\r\n    },\r\n    \"Traffic Source Types\": {\r\n      \"For you\": \"56%\",\r\n      \"Follow\": \"33%\",\r\n      \"Personal profile\": \"1%\"\r\n    },\r\n    \"Audience Territories\": {\r\n      \"Count\": 9332.5\r\n    }\r\n  }\r\n}\r\n```"
+  }
+]

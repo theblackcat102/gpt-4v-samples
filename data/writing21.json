@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, here's the extracted information from the cheque in JSON format:\r\n\r\n```json\r\n{\r\n    \"Bank\": \"BANCO CREDITCOOP\",\r\n    \"Cheque_Type\": \"CHEQUE DE PAGO DIFERIDO - CPD\",\r\n    \"Serie\": \"51002917\",\r\n    \"Amount\": \"2.900\",\r\n    \"Location\": \"Buenos Aires\",\r\n    \"Date_Issued\": \"Se Noviembre de 2013\",\r\n    \"Payment_Date\": \"EL 23 de Diciembre de 2013\",\r\n    \"Payee\": \"BOs mil Novecientos\",\r\n    \"Account_Info\": {\r\n        \"Number\": \"191-011-1427 9\",\r\n        \"Serie\": \"51002917 7\",\r\n        \"Other\": \"18100173267 2\"\r\n    },\r\n    \"Origin\": {\r\n        \"Branch\": \"FILIAL COLEGIALES\",\r\n        \"Payment_Address\": \"DOMICILIO DE PAGO: AV. FEDERICO LACROZE 3763 (1427) CAPITAL FEDERAL\"\r\n    },\r\n    \"Other_Details\": {\r\n        \"Code\": \"011 - 017326 \/ 7\",\r\n        \"Name\": \"GUEVARA JOSE 1620 20 CAF FED 1427\",\r\n        \"CT\": \"3056894663\"\r\n    },\r\n    \"Signature\": \"Signature_present\"\r\n}\r\n```\r\n\r\nPlease note that some of the fields might be off due to possible translation errors or misinterpretation of the cheque format. Double-check the extracted information to ensure its accuracy."
+  }
+]

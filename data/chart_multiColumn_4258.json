@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Can you specify the variables and their values used in this graph?"
+    },
+    {
+        "gpt": "The graph is titled \"Partisan Divide on U.S. in Canada\" and it shows the \"Favorable view of U.S.\" based on different political affiliations in Canada. The variables and their values are:\r\n\r\n1. TOTAL: 68%\r\n2. Conservative: 84%\r\n3. Liberal: 71%\r\n4. New Democratic: 58%\r\n\r\nThe source of the data is \"Spring 2015 Global Attitudes survey. Q12a.\" and it is provided by the PEW RESEARCH CENTER."
+    }
+]

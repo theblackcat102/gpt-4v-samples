@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "```json\r\n{\r\n  \"Payee\": \"ConnectYourCare LLC\",\r\n  \"Address\": {\r\n    \"Street\": \"307 International Circle\",\r\n    \"Suite\": \"Suite 200\",\r\n    \"City\": \"Hunt Valley\",\r\n    \"State\": \"MD\",\r\n    \"ZipCode\": \"21030\"\r\n  },\r\n  \"CheckNumber\": \"0003276225\",\r\n  \"Date\": \"12\/04\/2015\",\r\n  \"Amount\": \"$0.01\",\r\n  \"AmountWritten\": \"Zero Dollars and 01 Cent\",\r\n  \"ToTheOrderOf\": \"STEPHEN COHEN\",\r\n  \"RecipientAddress\": {\r\n    \"Street\": \"10900 N. SCOTTSDALE RD\",\r\n    \"City\": \"SCOTTSDALE\",\r\n    \"State\": \"AZ\",\r\n    \"ZipCode\": \"85254-5216\"\r\n  },\r\n  \"VoidAfter\": \"120 Days\"\r\n}\r\n```"
+  }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Generate a detailed description suited for this image, you must include the global scene, each subjects and lighting condition. If any text present you must include the OCR result as well"
+    },
+    {
+        "gpt": "Description:\r\n\r\nThe photograph captures a tranquil outdoor setting with a distinctive white church in the background. The church features a tall, sharp steeple and is surrounded by trees, with the sky appearing to be clear. In the foreground, two men stand next to a parked classic car on what appears to be a paved street or parking lot. The car is white, with chrome detailing, indicative of mid-20th-century automobile design.\r\n\r\nThe man on the left, wearing a striped short-sleeved shirt and dark pants, is actively engaging with a piece of equipment. This equipment, mounted on wheels, has various handles and a white cylindrical component \u2013 its exact purpose is unclear from the image. \r\n\r\nTo his right stands another man, donning a light-colored shirt with a pocket, dark glasses, and lighter-colored pants. He appears to be observing the other man's actions, with a relaxed stance, hands resting on his waist.\r\n\r\nThe lighting in the photograph suggests it might be daytime, with soft shadows cast on the ground. The overall ambiance conveys a sense of calmness, possibly during a routine or leisurely day.\r\n\r\nNo discernible text is present in the image for OCR processing."
+    }
+]

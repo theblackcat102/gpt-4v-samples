@@ -1,0 +1,14 @@
+[
+    {
+        "human": "What is the main subject of the image?"
+    },
+    {
+        "gpt": "The main subject of the image is a giraffe."
+    },
+    {
+        "human": "Generate a prompt which would be used to generate the exact image output by a text to image diffussion model"
+    },
+    {
+        "gpt": "\"Depict a giraffe standing tall amidst shrubs and trees in a savannah setting. The giraffe should be facing forward, showcasing its distinct patterned coat. In the background, the sky should be clear, with trees and greenery around. The giraffe's eyes should appear gentle, and its neck should be elongated, capturing the essence of its magnificent stature.\""
+    }
+]

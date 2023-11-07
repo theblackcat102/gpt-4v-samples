@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Help me extract information in this image into JSON"
+  },
+  {
+    "gpt": "Here's the extracted information from the image in JSON format:\r\n\r\n```json\r\n{\r\n  \"Analytics\": {\r\n    \"Overview\": {},\r\n    \"Content\": {},\r\n    \"Followers\": {}\r\n  },\r\n  \"Video Views\": {\r\n    \"Last 7 days\": 2014589,\r\n    \"Daily Views\": {\r\n      \"Dec 19\": null,\r\n      \"Dec 20\": null,\r\n      \"Dec 21\": null,\r\n      \"Dec 22\": null,\r\n      \"Dec 23\": null,\r\n      \"Dec 24\": 461800,\r\n      \"Dec 25\": null\r\n    }\r\n  },\r\n  \"Followers\": {\r\n    \"As of today\": 20967,\r\n    \"Growth\": {\r\n      \"Last 7 days\": 819,\r\n      \"Last 28 days\": null\r\n    }\r\n  },\r\n  \"Profile Views\": {\r\n    \"Last 7 days\": 69495,\r\n    \"Last 28 days\": null\r\n  }\r\n}\r\n```\r\n\r\nNote: I've filled in some of the daily video views with `null` because the exact numbers are not visible in the image."
+  }
+]

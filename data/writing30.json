@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, here is the extracted information in JSON format:\r\n\r\n```json\r\n{\r\n  \"Bank\": \"Santander Rio\",\r\n  \"Cheque_Number\": \"00000068\",\r\n  \"Amount\": \"$500\",\r\n  \"City\": \"Buenos Aires\",\r\n  \"Date_Issued\": \"Unknown month 2013\",\r\n  \"Date_Expiry\": \"02 February 2014\",\r\n  \"Payee\": \"Julia Contreros\",\r\n  \"Client_Info\": {\r\n    \"Account_Number\": \"014\/0123497\",\r\n    \"Address\": \"0812, JOSE L. AMENAZAR 2402, CAPITAL\",\r\n    \"CUIT\": \"30-10418570\",\r\n    \"Entity\": \"IR E CONSULTORES SRL\"\r\n  },\r\n  \"Bank_Info\": {\r\n    \"Branch_Address\": \"Sucursal BELGRANO, Calle 1422 2441 - Capital Federal\"\r\n  },\r\n  \"Bar_Code\": \"07723014.0123487021300201423293.937\"\r\n}\r\n```\r\n\r\nPlease note that some parts of the information may not be completely accurate due to the quality and legibility of the image. Always ensure to cross-check the details with the original document."
+  }
+]

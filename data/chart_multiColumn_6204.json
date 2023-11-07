@@ -1,0 +1,8 @@
+[
+    {
+        "human": "What correlations are suggested by this infographic between its different elements?"
+    },
+    {
+        "gpt": "The infographic titled \"More Hearing Bad News about Economy\" suggests the following correlations between its different elements:\r\n\r\n1. Over the time span from December 2008 to November 2012, there has been a general decline in the percentage of people hearing \"mostly good news\" about the economy. This percentage was highest in December 2008 at around 19% and dropped to its lowest in August 2011 and January 2012 at about 1%.\r\n\r\n2. The percentage of people hearing a \"mix of good and bad news\" about the economy saw fluctuations. It peaked around January 2011 at 68%, experienced a decline, and then saw an increase again by November 2012, reaching 62%.\r\n\r\n3. The percentage of those hearing \"mostly bad news\" also fluctuated during this period. It started at a low of 1% in December 2008, peaked at 33% in August 2011, and then declined to 10% by November 2012.\r\n\r\nIn summary, as the percentage of people hearing \"mostly good news\" decreased over the time period, the percentage of people hearing \"mostly bad news\" initially increased and then decreased, while the percentage of those hearing a \"mix of good and bad news\" showed fluctuations but ended the period at a high level. This suggests that over the period, the perception of the economy shifted from mostly positive to a mix of positive and negative, with a phase in between where the majority perceived the news as mostly negative."
+    }
+]

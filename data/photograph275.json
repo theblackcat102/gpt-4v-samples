@@ -1,0 +1,4 @@
+[
+    {"human": "Generate a detailed description in one paragraph which contains any text in this scene,  overall lighting, global context like background, human emotion, human action of this image? Just give me the description, skip all affirmative wording"},
+    {"gpt": "The image showcases three computer mice, each distinctively colored: light gray, soft pink, and pastel blue. Each mouse has the brand name \"logi\" printed on its surface, located near the bottom center. They are positioned on a neutral beige background with subtle shadows cast beneath them, suggesting a well-lit environment with diffused lighting. The scene lacks any human presence, and therefore, there are no human emotions or actions to describe. The setting appears to be minimalistic, emphasizing the mice as the primary focus."}
+]

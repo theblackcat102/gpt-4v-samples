@@ -1,0 +1,8 @@
+[
+    {
+        "human": "How many people are playing tennis in this image? Think step by step first"
+    },
+    {
+        "gpt": "Alright, let's break this down step by step:\r\n\r\n1. Starting from the left side of the image, I see one person in a striped shirt and shorts. This person seems to be in the middle of a tennis swing.\r\n2. Moving to the right, I see another individual wearing an orange top and white bottoms. This person is positioned closer to the net.\r\n3. In the background, further right, I observe two more individuals on the opposite side of the court. They are both in a ready stance, suggesting they are also participating in the game.\r\n\r\nAdding these up: 1 + 1 + 2 = 4.\r\n\r\nThere are 4 people playing tennis in this image."
+    }
+]

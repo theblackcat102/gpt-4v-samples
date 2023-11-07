@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, based on the image of the cheques, here's the extracted information in JSON format:\r\n\r\n```json\r\n[\r\n  {\r\n    \"Bank\": \"Marco\",\r\n    \"Date\": \"4 - Diciembre - 2013\",\r\n    \"AmountInNumbers\": \"$4,232\",\r\n    \"AmountInWords\": \"Cuatro Mil Doscientos Treinta y Dos\",\r\n    \"AccountNumber\": \"CTA. 347-09400511-2 (10\/05)\",\r\n    \"ChequeNumber\": \"4232\",\r\n    \"Year\": \"2013\"\r\n  },\r\n  {\r\n    \"Bank\": \"Marco\",\r\n    \"Date\": \"4 - Diciembre - 2014\",\r\n    \"AmountInNumbers\": \"$4,232\",\r\n    \"AmountInWords\": \"Cuatro Mil Doscientos Treinta y Dos\",\r\n    \"AccountNumber\": \"CTA. 347-09400511-2 (10\/05)\",\r\n    \"ChequeNumber\": \"4232\",\r\n    \"Year\": \"2014\"\r\n  }\r\n]\r\n```\r\n\r\nPlease note that this is a manual extraction and may not capture every detail accurately. Always cross-check manually for critical applications."
+  }
+]

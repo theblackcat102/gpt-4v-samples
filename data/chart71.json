@@ -1,0 +1,4 @@
+[
+    {"human": "Generate a detailed description in one paragraph which contains any text in this scene,  overall lighting, global context like background, human emotion, human action of this image? Just give me the description, skip all affirmative wording"},
+    {"gpt": "The image presents a compilation of whimsically drawn animated characters in pastel colors against a plain white background. These characters vary in design, with some resembling cute animals or mythical creatures, while others appear as abstract or comical beings. Notably, the word \"USGMEN\" is inscribed in a simplistic black font in the lower right corner. There's no discernible light source, making the scene uniformly lit without shadows. Since there are no humans in the frame, there are no human emotions or actions to describe."}
+]

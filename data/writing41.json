@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, here's the information extracted from the cheque in JSON format:\r\n\r\n```json\r\n{\r\n  \"Bank\": \"Galicia\",\r\n  \"AccountNumber\": \"00414332-0017-(08\/07)\",\r\n  \"Payee\": \"JUMBO RETAIL ARGENTINA SA\",\r\n  \"PayeeAccountNumber\": \"30-70877296-4\",\r\n  \"Address\": \"PARANA 3617(1740) MARTINEZ BUENOS AIRES\",\r\n  \"PaymentLocation\": \"SUCURSAL BALVANERA NO\",\r\n  \"PaymentAddress\": \"AV.RIVADAVIA 2330(1034), CAPITAL FEDERAL\",\r\n  \"ChequeType\": \"CHEQUE DE PAGO DIFERIDO - CPD\",\r\n  \"ChequeDate\": \"29 de noviembre de 2013\",\r\n  \"ChequeNumber\": \"SERIE T N 40700003\",\r\n  \"Amount\": \"12.750,12\",\r\n  \"PayDate\": \"El 18 de Febrero de 2014\",\r\n  \"Beneficiary\": \"VARBARO MARTIN HORACIO\",\r\n  \"PaymentOrder\": \"NO A LA ORDEN\",\r\n  \"AmountInWords\": \"la cantidad de pesos doce mil setecientos cincuenta 12\/100\"\r\n}\r\n```\r\n\r\nPlease note that the extracted information might not include every detail on the cheque or may interpret certain parts differently. Always cross-check manually for accuracy."
+  }
+]

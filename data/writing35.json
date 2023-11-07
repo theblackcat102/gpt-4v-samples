@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "I'll do my best based on the visibility of the image. Here's the extracted information in a JSON format:\r\n\r\n```json\r\n{\r\n  \"Bank\": \"BBVA Frances\",\r\n  \"Cheques\": [\r\n    {\r\n      \"PayTo\": \"To: [Text not clear]\",\r\n      \"ChequeNumber\": \"0128476\",\r\n      \"Amount\": \"$ [Amount not clear]\",\r\n      \"Date\": \"[Date not clear]\",\r\n      \"Notes\": \"[Text not clear]\"\r\n    },\r\n    {\r\n      \"PayTo\": \"To: [Text not clear]\",\r\n      \"ChequeNumber\": \"0128673\",\r\n      \"Amount\": \"$5000\",\r\n      \"Date\": \"2\/2014\",\r\n      \"Notes\": \"[Text not clear]\"\r\n    }\r\n  ]\r\n}\r\n```\r\n\r\nPlease note that the visibility of the image makes it hard to extract all information accurately, especially where I've marked \"[Text not clear]\". It's essential to verify and update the extracted details with the original document."
+  }
+]

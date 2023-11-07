@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Extract any information in this into a structured json"
+  },
+  {
+    "gpt": "Here's the extracted information in a structured JSON format:\r\n\r\n```json\r\n{\r\n    \"Header\": \"Analytics\",\r\n    \"Video\": {\r\n        \"Thumbnail\": {\r\n            \"ImageURL\": \"Not provided\",\r\n            \"Caption\": \"Is a power generator that's mostly quiet but doesn't made of rubber?\"\r\n        },\r\n        \"Duration\": \"9.31s\",\r\n        \"DataSincePostTime\": \"02-17-2021 10:07\"\r\n    },\r\n    \"VideoStats\": {\r\n        \"Play\": 366,\r\n        \"Likes\": 94,\r\n        \"Comments\": 10,\r\n        \"Shares\": 7\r\n    },\r\n    \"DataUpdatedOn\": \"02-17-2021\",\r\n    \"TotalPlayTime\": \"1h:9m:58s\",\r\n    \"TotalPlayTimeChange\": \"+1.2h vs 1d ago\",\r\n    \"AverageWatchTime\": \"12.1s\",\r\n    \"AverageWatchTimeChange\": \"+12.1s vs 1d ago\",\r\n    \"TrafficSourceTypes\": {\r\n        \"ForYou\": \"59%\",\r\n        \"Following\": \"32%\",\r\n        \"PersonalProfile\": \"8%\"\r\n    },\r\n    \"AudienceTerritories\": {\r\n        \"ReachedAudience\": 296,\r\n        \"ReachedAudienceChange\": \"+296 vs 1d ago\"\r\n    }\r\n}\r\n```\r\n\r\nNote: The \"ImageURL\" is set to \"Not provided\" since the actual URL of the thumbnail is not available in the provided image."
+  }
+]

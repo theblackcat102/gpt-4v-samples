@@ -1,0 +1,4 @@
+[
+    {"human": "Could you transcribe the data points from this chart into a DataFrame format?"},
+    {"gpt": "Of course! Here's the data transcribed from the chart into a DataFrame format:\r\n\r\n```\r\n   Year  Sales (in billions)\r\n0  2013  Approx. 2\r\n1  2014  Approx. 2.5\r\n2  2015  Approx. 3\r\n3  2016  Approx. 3.5\r\n4  2017  Approx. 4\r\n5  2018  Approx. 4.5\r\n6  2019  Approx. 5\r\n7  2020  Approx. 12\r\n```\r\n\r\nPlease note that the exact values have been estimated based on the visual representation of the bars in the chart, as the specific numbers weren't provided."}
+]

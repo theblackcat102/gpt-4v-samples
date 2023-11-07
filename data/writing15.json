@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Alright, here's the complete information extracted from the check in JSON format:\r\n\r\n```json\r\n{\r\n  \"Payer\": \"SHAKEER M RAHMAN\",\r\n  \"Address\": \"R: Ben Camacho, 03510202 9963\",\r\n  \"Check_Number\": \"#700\",\r\n  \"Date\": \"9\/12\/12\",\r\n  \"Payee\": \"LOS ANGELES POLICE DEPT.\",\r\n  \"Amount_Numerical\": \"$6.00\",\r\n  \"Amount_in_Words\": \"SIX\",\r\n  \"Bank\": \"JPMorgan Chase Bank, N.A\",\r\n  \"Memo\": \"PLAB PLAT 22-6794\",\r\n  \"Routing_Number\": \"001000021\",\r\n  \"Account_Number\": \"[Partially Obscured in Image]\"\r\n}\r\n```\r\n\r\nPlease note, I can't extract the full account number as it appears to be obscured in the provided image."
+  }
+]

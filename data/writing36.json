@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, here's the information extracted from the cheque in JSON format:\r\n\r\n```json\r\n{\r\n    \"Cheque_Type\": \"CHEQUE DE PAGO DIFERIDO - CPD\",\r\n    \"Number\": \"830-00017123\",\r\n    \"Amount\": \"$20,007.09\",\r\n    \"Issue_Date\": \"17 de Diciembre de 2013\",\r\n    \"Due_Date\": \"08 de Enero de 2014\",\r\n    \"Payee\": \"REINOSO JUAN AGUSTIN\",\r\n    \"Amount_in_Words\": \"Veinte Mil Siete Pesos con 09\/100\",\r\n    \"Bank_Info\": {\r\n        \"Bank_Name\": \"CBC\",\r\n        \"Account_Details\": {\r\n            \"CUIT\": \"30-68500078-2\",\r\n            \"Location\": \"SALTA, SANTA FE\"\r\n        },\r\n        \"Branch\": \"SUCURSAL SALTA ESPA\u00D1A 717(4400) SALTA, SALTA\"\r\n    }\r\n}\r\n```\r\n\r\nNote: Always ensure you don't share sensitive information and handle such data with care."
+  }
+]

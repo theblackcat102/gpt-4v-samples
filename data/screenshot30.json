@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Extract the results in this image to JSON"
+  },
+  {
+    "gpt": "Here's the extracted data from the image in JSON format:\r\n\r\n```json\r\n{\r\n    \"Insights\": {\r\n        \"Top Locations\": {\r\n            \"Countries\": {\r\n                \"Nigeria\": \"Highest\",\r\n                \"Ghana\": \"Second Highest\",\r\n                \"United States\": \"Third Highest\",\r\n                \"Tanzania\": \"Fourth Highest\",\r\n                \"Kenya\": \"Fifth Highest\"\r\n            }\r\n        },\r\n        \"Age Range\": {\r\n            \"All\": {\r\n                \"13-17\": \"2%\",\r\n                \"18-24\": \"43%\",\r\n                \"25-34\": \"37%\",\r\n                \"35-44\": \"7%\",\r\n                \"45-54\": \"2%\",\r\n                \"55-64\": \"2%\",\r\n                \"65+\": \"7%\"\r\n            }\r\n        },\r\n        \"Gender\": {\r\n            \"Women\": \"46%\",\r\n            \"Men\": \"54%\"\r\n        }\r\n    }\r\n}\r\n```\r\n\r\nNote: For the \"Top Locations\", the exact percentages were not visible in the image, so I've used descriptive labels like \"Highest\", \"Second Highest\", etc. to indicate their relative rankings."
+  }
+]

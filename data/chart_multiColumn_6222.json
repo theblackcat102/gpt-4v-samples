@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Can you reformulate the graph data into a matrix format?"
+    },
+    {
+        "gpt": "Certainly, here's the data from the graph reformulated into a matrix format:\r\n\r\n**Support Candidate \"Strongly\"**:\r\n\r\n| Month | Obama Supporters | Romney Supporters |\r\n|-------|------------------|------------------|\r\n| June  | 38%              | 64%              |\r\n| July  | 34%              | 68%              |\r\n| Sept  | 56%              | 67%              |\r\n| Oct   | ...              | ...              |\r\n\r\n**Given \"A Lot of Thought\" To Election**:\r\n\r\n| Month | Obama Supporters | Romney Supporters |\r\n|-------|------------------|------------------|\r\n| June  | 63%              | 73%              |\r\n| July  | 62%              | 70%              |\r\n| Sept  | 67%              | 73%              |\r\n| Oct   | ...              | 82%              |\r\n\r\n(Note: The \"...\" in Oct for the \"Support Candidate 'Strongly'\" section indicates that the exact values are not provided in the graph.)"
+    }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Help me extract this screenshot into a JSON data"
+  },
+  {
+    "gpt": "Here's the extracted data from the screenshot in JSON format:\r\n\r\n```json\r\n{\r\n  \"Overview\": {\r\n    \"Analytics\": {\r\n      \"Video Views\": {\r\n        \"Last 7 days\": 162202,\r\n        \"Daily Data\": {\r\n          \"May 05\": 0,\r\n          \"May 06\": 0,\r\n          \"May 07\": 0,\r\n          \"May 08\": 0,\r\n          \"May 09\": 0,\r\n          \"May 10\": 39000,\r\n          \"May 11\": 0\r\n        }\r\n      },\r\n      \"Followers\": {\r\n        \"As of today\": 15183,\r\n        \"Daily Growth\": {\r\n          \"May 05\": 0,\r\n          \"May 06\": 0,\r\n          \"May 07\": 0,\r\n          \"May 08\": 0,\r\n          \"May 09\": 0,\r\n          \"May 10\": 15128,\r\n          \"May 11\": 0\r\n        }\r\n      },\r\n      \"Profile Views\": {\r\n        \"Last 7 days\": 5041,\r\n        \"Daily Data\": {}\r\n      }\r\n    }\r\n  }\r\n}\r\n```\r\n\r\nPlease note that the daily data for \"Profile Views\" is empty as the screenshot did not provide individual data for each day for that category."
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Extract any information in this into a structured json"
+  },
+  {
+    "gpt": "Here's the extracted information in a structured JSON format:\r\n\r\n```json\r\n{\r\n  \"Reach\": {\r\n    \"Last 7 Days\": {\r\n      \"Total Accounts\": 39,\r\n      \"Comparison with Previous Week\": \"-87.3% vs Feb 2 - Feb 8\",\r\n      \"Daily Data\": {\r\n        \"Tue\": \"Not specified\",\r\n        \"Wed\": \"Not specified\",\r\n        \"Thu\": \"Not specified\",\r\n        \"Fri\": \"Not specified\",\r\n        \"Sat\": \"Not specified\",\r\n        \"Sun\": \"Not specified\",\r\n        \"Mon\": \"Not specified\"\r\n      },\r\n      \"Accounts Reached from Feb 9-15\": \"Not specified\"\r\n    }\r\n  },\r\n  \"Impressions\": {\r\n    \"Comparison with Previous Week\": \"-75.4% vs Feb 2 - Feb 8\",\r\n    \"Total\": 95\r\n  },\r\n  \"Account Activity\": {\r\n    \"Profile Visits\": {\r\n      \"Total\": 14,\r\n      \"Comparison with Previous Week\": \"-58.9% vs Feb 2 - Feb 8\"\r\n    },\r\n    \"Website Taps\": {\r\n      \"Total\": 0,\r\n      \"Comparison with Previous Week\": \"-100% vs Feb 2 - Feb 8\"\r\n    },\r\n    \"Email Button Taps\": {\r\n      \"Total\": 0,\r\n      \"Comparison with Previous Week\": \"0% vs Feb 2 - Feb 8\"\r\n    },\r\n    \"Call Button Taps\": {\r\n      \"Total\": 0,\r\n      \"Comparison with Previous Week\": \"0% vs Feb 2 - Feb 8\"\r\n    }\r\n  }\r\n}\r\n```\r\n\r\nNote: The \"Daily Data\" for the \"Last 7 Days\" under \"Reach\" was marked as \"Not specified\" because the exact values for each day were not explicitly mentioned in the image."
+  }
+]

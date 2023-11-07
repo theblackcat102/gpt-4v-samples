@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Help me convert information in this image into JSON"
+  },
+  {
+    "gpt": "Here's the information from the image converted into JSON:\r\n\r\n```json\r\n{\r\n  \"Audience\": {\r\n    \"Last7Days\": {\r\n      \"Overall\": 6,\r\n      \"Follows\": 35,\r\n      \"Unfollows\": 29,\r\n      \"GraphData\": {\r\n        \"T\": -10,\r\n        \"F\": 0,\r\n        \"S1\": 5,\r\n        \"S2\": 5,\r\n        \"M\": 0,\r\n        \"T\": -5,\r\n        \"W\": -10\r\n      }\r\n    }\r\n  },\r\n  \"TopLocations\": {\r\n    \"Cities\": {\r\n      \"New York\": \"1.8%\",\r\n      \"Burlington\": \"1.7%\",\r\n      \"London\": \"1.1%\",\r\n      \"Los Angeles\": \"0.9%\",\r\n      \"Bennington\": \"0.8%\"\r\n    }\r\n  }\r\n}\r\n```\r\n\r\nNote: The days of the week in the graph data are represented as T, F, S1, S2, M, T, W. \"S1\" and \"S2\" are used to differentiate between the two Sundays."
+  }
+]

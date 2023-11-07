@@ -1,0 +1,8 @@
+[
+    {"human": "is the 2nd email starred? [‘yes’, ‘no’]"},
+    {"gpt": "no"},
+    {"human": "Who is the draft sending to?"},
+    {"gpt": "The draft is being sent to \"Grayson Fields\". Additionally, it has \"tinaaab93@gmail.com\" in the Cc field and \"connorobrien324@gmail.com\" in the Bcc field."},
+    {"human": "What is the color of this background?"},
+    {"gpt": "The background of the image displays a blend of various colors including green, yellow, purple, pink, and blue in a watercolor-like effect. It doesn't have one distinct color, but rather a mix of these hues."}
+]

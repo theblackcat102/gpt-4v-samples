@@ -1,0 +1,8 @@
+[
+  {
+    "human": "What's the primary focus of this slide?"
+  },
+  {
+    "gpt": "The primary focus of this slide is to provide a comparison of various 11th Gen Intel Core processors, detailing their specifications such as the number of cores and threads, graphics execution units (EUs), cache size, operating power range (watts), base clock speed (GHz), maximum single and all core turbo frequencies (GHz), graphics max frequency (GHz), and supported memory types."
+  }
+]

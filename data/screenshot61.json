@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Extract any information in this into a structured json"
+  },
+  {
+    "gpt": "Here's the information extracted from the image into a structured JSON:\r\n\r\n```json\r\n{\r\n  \"Audience\": {\r\n    \"Last7Days\": {\r\n      \"AgeRange\": {\r\n        \"All\": {\r\n          \"13-17\": \"1.4%\",\r\n          \"18-24\": \"11%\",\r\n          \"25-34\": \"41%\",\r\n          \"35-44\": \"24%\",\r\n          \"45-54\": \"17%\",\r\n          \"55-64\": \"4.9%\",\r\n          \"65+\": \"0.0%\"\r\n        },\r\n        \"Men\": {},\r\n        \"Women\": {}\r\n      },\r\n      \"Gender\": {\r\n        \"Women\": \"75%\",\r\n        \"Men\": \"25%\"\r\n      }\r\n    }\r\n  }\r\n}\r\n```\r\n\r\nNote: The \"Men\" and \"Women\" subcategories under \"AgeRange\" are empty in the given data."
+  }
+]

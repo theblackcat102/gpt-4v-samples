@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Alright. Here's the complete extracted information from the cheque in JSON format:\r\n\r\n```json\r\n{\r\n  \"Top Cheque\": {\r\n    \"Name\": \"JOHN Q PUBLIC\",\r\n    \"Address\": \"25-58 4TH STREET, PLEASANTVILLE, OH 71882\",\r\n    \"Date\": \"6\/22\/04\",\r\n    \"Cheque Number\": \"135\",\r\n    \"Pay to the Order of\": \"6&b 880\",\r\n    \"Amount in Numbers\": \"$1700.00\",\r\n    \"Amount in Words\": \"One Thousand Sevenhundred &\/100\",\r\n    \"Bank Name\": \"CITIBANK\",\r\n    \"Memo\": \"Birthday 04\",\r\n    \"Routing Number\": \"001000089\",\r\n    \"Account Number\": \"681116 0135\"\r\n  },\r\n  \"Bottom Cheque\": {\r\n    \"Bank Name\": \"CITIBANK\",\r\n    \"Card Number\": \"4417 58698569\",\r\n    \"Date\": \"07\/09\/2004\",\r\n    \"Endorsement Hint\": \"Multiple unreadable texts and a signature\"\r\n  }\r\n}\r\n```\r\n\r\nPlease note that while I've attempted to extract the data as accurately as possible, there are sections of the image that are not entirely clear, and the extraction might not be perfect."
+  }
+]

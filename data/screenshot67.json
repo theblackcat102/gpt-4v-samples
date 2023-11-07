@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Extract any information in this into a structured json"
+  },
+  {
+    "gpt": "Here is the structured JSON based on the provided image:\r\n\r\n```json\r\n{\r\n  \"Analytics\": {\r\n    \"Overview\": {\r\n      \"Video Views\": {\r\n        \"7 days\": {\r\n          \"Total\": \"4,453,224\",\r\n          \"Daily\": {\r\n            \"Jan 28\": \"0\",\r\n            \"Jan 29\": \"0\",\r\n            \"Jan 30\": \"0\",\r\n            \"Jan 31\": \"0\",\r\n            \"Feb 01\": \"0\",\r\n            \"Feb 02\": \"0\",\r\n            \"Feb 03\": \"0\",\r\n            \"Feb 04\": \"0\"\r\n          }\r\n        }\r\n      },\r\n      \"Followers\": {\r\n        \"7 days\": {\r\n          \"Total\": \"1,745,876\",\r\n          \"Trend\": {\r\n            \"Jan 28\": \"0\",\r\n            \"Jan 29\": \"0\",\r\n            \"Jan 30\": \"0\",\r\n            \"Jan 31\": \"0\",\r\n            \"Feb 01\": \"0\",\r\n            \"Feb 02\": \"0\",\r\n            \"Feb 03\": \"0\",\r\n            \"Feb 04\": \"0\"\r\n          }\r\n        }\r\n      },\r\n      \"Profile Views\": {\r\n        \"7 days\": {}\r\n      }\r\n    }\r\n  }\r\n}\r\n```\r\n\r\nNote: The daily data for \"Video Views\", \"Followers\", and \"Profile Views\" are filled with \"0\" values since the image does not provide the specific numerical values for each date. You might want to replace them with the exact numbers if you have them."
+  }
+]

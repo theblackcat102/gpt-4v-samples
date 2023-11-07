@@ -1,0 +1,8 @@
+[
+  {
+    "human": "What is the underlying theme this slide aims to present?"
+  },
+  {
+    "gpt": "The slide presents data on the growth of internet advertising in the USA from 2009 to 2015, highlighting a significant shift towards mobile advertising over desktop advertising. It illustrates that while both segments are growing, mobile advertising is increasing at a much faster rate. The key points it conveys are:\r\n\r\n1. The overall growth in USA internet advertising revenue over the years.\r\n2. The increasing dominance of mobile advertising as a component of internet advertising revenue.\r\n3. A comparison of year-over-year growth rates, showing mobile advertising growth significantly outpacing desktop advertising growth.\r\n\r\nThe message is emphasized by the headline, which states \"USA Internet Advertising Growth = Accelerating, +20% vs. +16% Y\/Y\u2026 Owing to Mobile (+66%) vs. Desktop (+5%).\" This headline indicates that the acceleration in advertising growth is primarily due to a surge in mobile advertising revenue, which is increasing at a much faster annual rate (66%) compared to desktop advertising (5%). The red line graph underscores this point by plotting the year-over-year (Y\/Y) growth percentage, showing a steep increase especially in the later years."
+  }
+]

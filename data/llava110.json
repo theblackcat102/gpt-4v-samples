@@ -1,0 +1,14 @@
+[
+    {
+        "human": "Is the person in the image standing or lying on the ground?"
+    },
+    {
+        "gpt": "The person in the image is lying on the ground."
+    },
+    {
+        "human": "What has happened?"
+    },
+    {
+        "gpt": "The person appears to have fallen while skiing, as they are surrounded by snow with skis and poles, and they are in a position that suggests a fall."
+    }
+]

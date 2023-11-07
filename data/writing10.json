@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "{\r\n  \"Bank_Name\": \"Bank of Valletta\",\r\n  \"Bank_Address\": \"DUN PAWL STREET LIQA 01600\",\r\n  \"Date\": \"21.05.08\",\r\n  \"Payee\": \"MICHAEL BORG\",\r\n  \"Amount\": \"\u20AC 4,721.00\",\r\n  \"In_Words\": \"Four Thousand Seven Hundred Twenty-One\",\r\n  \"Memo\": \"Trust Funds only\",\r\n  \"Signature\": \"Signature detected but not readable\"\r\n}"
+  }
+]

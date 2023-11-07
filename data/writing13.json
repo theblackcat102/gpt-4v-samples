@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, here's the extracted information in JSON format:\r\n\r\n```json\r\n{\r\n  \"Issuer\": {\r\n    \"Name\": \"ALBERTO O. BACO-WANTZELIUS Y\/O LETICIA M. BAGUE-SOSA\",\r\n    \"Address\": \"PO BOX 366257, SAN JUAN PR 00936-6257\"\r\n  },\r\n  \"ChequeNumber\": \"0213\",\r\n  \"Date\": \"4 August 93\",\r\n  \"Amount\": \"$10.00\",\r\n  \"Bank\": {\r\n    \"Name\": \"BANCO POPULAR DE PUERTO RICO\",\r\n    \"Branch\": \"Cupey Branch, Rio Piedras, Puerto Rico 00928\",\r\n    \"Code\": \"101-201\/215\",\r\n    \"RoutingNumber\": \"02150201\",\r\n    \"AccountNumber\": \"014025388\",\r\n    \"TransactionCode\": \"TC 030\"\r\n  },\r\n  \"Memo\": \"2 PBS Land\"\r\n}\r\n```\r\n\r\nPlease note that this is a basic extraction and might require further validation or refinement based on the specific needs."
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you convert whatever on this screenshot into a structured json?"
+  },
+  {
+    "gpt": "Sure. Here's the data from the screenshot represented as structured JSON:\r\n\r\n```json\r\n{\r\n  \"Analytics\": {\r\n    \"Overview\": {\r\n      \"Video Views\": {\r\n        \"Last 7 days\": 5939642,\r\n        \"Daily\": {\r\n          \"Oct 16\": null,\r\n          \"Oct 17\": null,\r\n          \"Oct 18\": null,\r\n          \"Oct 19\": null,\r\n          \"Oct 20\": null,\r\n          \"Oct 21\": 379000,\r\n          \"Oct 22\": null\r\n        }\r\n      },\r\n      \"Followers\": {\r\n        \"As of today\": 231633,\r\n        \"Last 7 days\": {\r\n          \"Start\": 229700,\r\n          \"Change\": \"+2.4k\"\r\n        }\r\n      },\r\n      \"Profile Views\": {\r\n        \"Last 7 days\": 116189\r\n      }\r\n    }\r\n  }\r\n}\r\n```\r\n\r\nNote: The `null` values in the daily video views for some dates are because the exact numbers aren't shown in the screenshot."
+  }
+]

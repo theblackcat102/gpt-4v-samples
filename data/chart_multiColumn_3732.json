@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Please catalogue the data used in this chart, both horizontally and vertically."
+    },
+    {
+        "gpt": "The chart is titled \"Most talk about election with like-minded voters.\"\r\n\r\nVertical Categories:\r\n1. Total\r\n2. Trump supporters\r\n3. Clinton supporters\r\n\r\nHorizontal Categories:\r\n1. Trump\r\n2. Clinton\r\n\r\nData Points:\r\n- For \"Total\":\r\n  - Trump: 54%\r\n  - Clinton: 55%\r\n\r\n- For \"Trump supporters\":\r\n  - Trump: 76%\r\n  - Clinton: 37%\r\n\r\n- For \"Clinton supporters\":\r\n  - Trump: 40%\r\n  - Clinton: 72%\r\n\r\nNotes:\r\n- Based on all registered voters.\r\n- Source: Survey conducted June 7-July 5, 2016.\r\n- PEW RESEARCH CENTER."
+    }
+]

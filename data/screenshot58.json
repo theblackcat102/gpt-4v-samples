@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Help me convert information in this image into JSON"
+  },
+  {
+    "gpt": "Here's the information from the image converted into JSON format:\r\n\r\n```json\r\n{\r\n    \"Followers\": {\r\n        \"Total\": 5609,\r\n        \"Change\": \"+125 vs. Sep 16 - Sep 23\"\r\n    },\r\n    \"Gender\": {\r\n        \"Female\": \"43.6%\",\r\n        \"Male\": \"56.4%\"\r\n    },\r\n    \"Top Territories\": {\r\n        \"United States\": \"45%\",\r\n        \"Australia\": \"21%\",\r\n        \"United Kingdom\": \"8%\",\r\n        \"Canada\": \"7%\",\r\n        \"Russian\": \"3%\"\r\n    }\r\n}\r\n```\r\n"
+  }
+]

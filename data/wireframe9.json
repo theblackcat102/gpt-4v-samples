@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Could you please convert this into a textual UX flow?"
+    },
+    {
+        "gpt": "Sure.\r\n\r\n**Home Page:**\r\n- **Sale**\r\n- **Toys**\r\n  - Action F\r\n  - Dolls\r\n  - Stuffed\r\n  - Elephant\r\n  - Education\r\n  - Music\r\n  - R-ideable\r\n  - Arts & Crafts\r\n  - Outdoor\r\n- **Magic**\r\n  - Beginner\r\n  - Medium\r\n  - Hard\r\n- **Brand**\r\n  - Disney\r\n  - Lego\r\n  - Star Wars\r\n- **Clothes**\r\n- **Contact**\r\n- **About**\r\n- **Account**\r\n- **Cart**\r\n  - Checkout\r\n  - Confirm\r\n  - Thank You"
+    }
+]

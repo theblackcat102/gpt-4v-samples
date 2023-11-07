@@ -1,0 +1,14 @@
+[
+    {
+        "human": "What are the colors of the truck in the image?"
+    },
+    {
+        "gpt": "The truck in the image is primarily red with blue details. The truck also has white lettering and some yellow elements, such as the light on top."
+    },
+    {
+        "human": "Give me the text written on top"
+    },
+    {
+        "gpt": "The text written on the truck is \"ARDULA\"."
+    }
+]

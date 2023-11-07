@@ -1,0 +1,14 @@
+[
+    {
+        "human": "How many pictures are there in the image?"
+    },
+    {
+        "gpt": "There are two pictures in the image."
+    },
+    {
+        "human": "Generate a prompt which would be used to generate the exact image output by a text to image diffussion model"
+    },
+    {
+        "gpt": "Prompt:\r\n\"Create a side-by-side comparison image. On the left, visualize a bathroom with blue and green hues. The walls are a soft blue, and there's a green toilet with a brown countertop above it. A red ornament hangs by the window. On the right, depict another bathroom scene. The walls are painted in a warm mustard-yellow. Above the toilet, there's a black cabinet filled with jars and bathroom essentials. A decorative plant decal ascends beside a window. The toilet lid is open, and bathroom accessories like tissues and a bin are present.\""
+    }
+]

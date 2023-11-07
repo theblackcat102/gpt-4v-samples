@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "Yes, here's the extracted information from the cheque in a JSON format:\r\n\r\n```json\r\n{\r\n  \"Bank_Name\": \"Banco Mariva\",\r\n  \"Cheque_Type\": \"Cheque de Pago Diferido-CPD\",\r\n  \"Serie_Number\": \"12576367\",\r\n  \"Date_Issued\": \"02 de Diciembre de 2013\",\r\n  \"Date_Payable\": \"23 de Diciembre de 2013\",\r\n  \"Payable_To\": \"Gonzalez Gustavo Luis\",\r\n  \"Amount_Words\": \"Cuarenta y cinco mil seiscientos sesenta y siete con 90\/100\",\r\n  \"Amount_Number\": \"$45,767.90\",\r\n  \"Account_Number\": \"000-0049895\/6\",\r\n  \"Branch_Details\": {\r\n    \"Name\": \"Caminos de Parana S.A\",\r\n    \"Address\": \"Caminos del Parana S a Honduras 0566(01414) Buenos Aires\"\r\n  },\r\n  \"Bank_Branch\": {\r\n    \"Name\": \"Sucursal Casa Central\",\r\n    \"Address\": \"Domingo F. Sarmiento 500 C1041AAJ Ciudad Autonoma de Buenos Aires\"\r\n  }\r\n}\r\n```\r\n\r\nPlease note that the information has been extracted based on the visible content in the image. Ensure to verify its accuracy and completeness based on the original document."
+  }
+]

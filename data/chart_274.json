@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Can you transcribe the data from this diagram into a structured data format?"
+    },
+    {
+        "gpt": "Yes.\r\n\r\n```json\r\n{\r\n    \"Title\": \"U.S. public is closely divided about overall health risk from food additives\",\r\n    \"Subtitle\": \"% of U.S. adults who say the average person is exposed to additives in the food they eat every day\",\r\n    \"Data\": {\r\n        \"Which pose a serious risk to their health\": \"51%\",\r\n        \"But they are in such small amounts that this does not pose a serious health risk\": \"48%\",\r\n        \"No answer\": \"2%\"\r\n    },\r\n    \"Source\": \"Survey conducted April 23-May 6, 2018.\",\r\n    \"Report\": \"Public Perspectives on Food Risks\",\r\n    \"Organization\": \"PEW RESEARCH CENTER\"\r\n}\r\n```"
+    }
+]

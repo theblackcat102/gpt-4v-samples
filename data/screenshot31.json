@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Extract the data in this image to JSON"
+  },
+  {
+    "gpt": "Here's the extracted data from the image in JSON format:\r\n\r\n```json\r\n{\r\n  \"Audience\": {\r\n    \"Last 30 Days\": {\r\n      \"Top Locations\": {\r\n        \"Cities\": {\r\n          \"Moscow\": \"6.3%\",\r\n          \"Saint Petersburg\": \"3.9%\",\r\n          \"Almaty\": \"2.8%\",\r\n          \"Mumbai\": \"2.2%\",\r\n          \"Minsk\": \"2.2%\"\r\n        },\r\n        \"Countries\": {}\r\n      },\r\n      \"Age Range\": {\r\n        \"All\": {\r\n          \"13-17\": \"0.1%\",\r\n          \"18-24\": \"12.7%\",\r\n          \"25-34\": \"46.1%\",\r\n          \"35-44\": \"28.4%\",\r\n          \"45-54\": \"9.9%\",\r\n          \"55-64\": \"2.2%\",\r\n          \"65+\": \"0.6%\"\r\n        },\r\n        \"Men\": {},\r\n        \"Women\": {}\r\n      },\r\n      \"Gender\": {\r\n        \"Men\": \"59.0%\",\r\n        \"Women\": \"41.0%\"\r\n      },\r\n      \"Most Active Times\": {\r\n        \"Hours\": {\r\n          \"12a\": \"\",\r\n          \"3a\": \"\",\r\n          \"6a\": \"\",\r\n          \"9a\": \"\",\r\n          \"12p\": \"\",\r\n          \"3p\": \"\",\r\n          \"6p\": \"\",\r\n          \"9p\": \"\"\r\n        },\r\n        \"Days\": {\r\n          \"Wednesdays\": \"\"\r\n        }\r\n      }\r\n    }\r\n  }\r\n}\r\n```\r\n\r\nPlease note that some sections, like \"Countries\", \"Men\" and \"Women\" in the \"Age Range\" section, and specific activity levels in the \"Most Active Times\" section, were left empty because they were not shown or detailed in the image."
+  }
+]

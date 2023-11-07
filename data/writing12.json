@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you extract the information from this cheque into a json format?"
+  },
+  {
+    "gpt": "{\r\n  \"Payer\": {\r\n    \"Name\": \"RICHARDS BELTRAN\",\r\n    \"DBA_1\": \"DBA B SQUARE ENTERPRISES\",\r\n    \"DBA_2\": \"DBA KITCHENWORKS\",\r\n    \"Address\": {\r\n      \"PO_BOX\": \"PO BOX 6271\",\r\n      \"City\": \"SPARTANBURG\",\r\n      \"State\": \"SC\",\r\n      \"ZipCode\": \"29304\"\r\n    }\r\n  },\r\n  \"CheckNumber\": \"7087\",\r\n  \"Date\": \"9-20-??\",\r\n  \"Payee\": \"HILAZAND J. AMEINO\",\r\n  \"AmountInWords\": \"FIVE THOUSAND\",\r\n  \"AmountInNumbers\": \"$5000.00\",\r\n  \"Bank\": {\r\n    \"Name\": \"ARTHUR\",\r\n    \"Address\": \"STREET NAME WOODELY, RD\"\r\n  }\r\n}"
+  }
+]

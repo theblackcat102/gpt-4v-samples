@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Extract any information in this into a structured json"
+  },
+  {
+    "gpt": "Here's the structured JSON representation of the provided image:\r\n\r\n```json\r\n{\r\n  \"Post Insights\": {\r\n    \"Likes\": 175,\r\n    \"Comments\": 8,\r\n    \"Shares\": 2,\r\n    \"Saves\": 5,\r\n    \"Profile Visits\": 13,\r\n    \"Reach\": 2006,\r\n    \"Interactions\": {\r\n      \"Total\": 13,\r\n      \"Actions taken from this post\": 13\r\n    },\r\n    \"Discovery\": {\r\n      \"Accounts reached\": 2006,\r\n      \"Percentage not following account\": \"66%\",\r\n      \"Account not following\": \"back.road.ramblers\"\r\n    },\r\n    \"Follows\": 0\r\n  }\r\n}\r\n```\r\n\r\nNote: The extracted information is based on the content and labels visible in the image."
+  }
+]

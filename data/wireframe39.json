@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can we get the data from this image in a structured JSON format?"
+  },
+  {
+    "gpt": "Yes, here's the data from the image in a structured JSON format:\r\n\r\n```json\r\n{\r\n  \"title\": \"\uC6D4\uAC04\uB7EC\uB2DD\uB9AC\uD3EC\uD2B8\",\r\n  \"totalLearningStats\": {\r\n    \"totalHours\": 100,\r\n    \"categories\": [\r\n      {\r\n        \"name\": \"\uD65C\uB3D9\uC2DC\uAC04\",\r\n        \"hours\": 100\r\n      },\r\n      {\r\n        \"name\": \"\uC9D1\uC911 \uC218\uAC15\uC2DC\uAC04\",\r\n        \"hours\": 4,\r\n        \"percentage\": 4\r\n      },\r\n      {\r\n        \"name\": \"\uC804\uCCB4 \uC218\uAC15\uC2DC\uAC04\",\r\n        \"hours\": 80,\r\n        \"percentage\": 76\r\n      }\r\n    ],\r\n    \"totalCompletion\": 80\r\n  },\r\n  \"dailyLearningDetails\": [\r\n    {\r\n      \"date\": \"2023.03.28\",\r\n      \"courseName\": \"1\uCC28 \uC778\uAE30\uAE30\uD68D\",\r\n      \"category\": \"\uD65C\uB3D9\uC2DC\uAC04\",\r\n      \"completionPercentage\": 60,\r\n      \"totalHours\": 500,\r\n      \"completedHours\": 300\r\n    },\r\n    {\r\n      \"date\": \"2023.03.28\",\r\n      \"courseName\": \"2\uCC28 \uAC1C\uBC1C\uB7EC\uB2DD\uC13C\uC11C\",\r\n      \"category\": \"\uD65C\uB3D9\uC2DC\uAC04\",\r\n      \"completionPercentage\": 50,\r\n      \"totalHours\": 600,\r\n      \"completedHours\": 300\r\n    }\r\n  ]\r\n}\r\n```\r\n\r\nThis structured JSON format represents the data presented in the image."
+  }
+]

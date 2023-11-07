@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Extract any information in this into a structured json"
+  },
+  {
+    "gpt": "```json\r\n{\r\n  \"Analytics\": {\r\n    \"Network\": \"Verizon\",\r\n    \"Time\": \"5:03 PM\",\r\n    \"VideoDetail\": {\r\n      \"Duration\": \"16.95s\",\r\n      \"DataSincePost\": \"11-05-2020 14:54\",\r\n      \"Metrics\": {\r\n        \"Play\": 25,\r\n        \"Hearts\": 3,\r\n        \"Comments\": 0,\r\n        \"Shares\": 0\r\n      },\r\n      \"LastUpdated\": \"11-18-2020\"\r\n    },\r\n    \"TotalPlayTime\": \"0h:7m:27s\",\r\n    \"AverageWatchTime\": \"18s\",\r\n    \"TrafficSourceTypes\": {\r\n      \"ForYou\": \"59%\",\r\n      \"PersonalProfile\": \"32%\",\r\n      \"Follow\": \"9%\"\r\n    }\r\n  }\r\n}\r\n```"
+  }
+]

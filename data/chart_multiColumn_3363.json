@@ -1,0 +1,8 @@
+[
+    {
+        "human": "Could you translate the details from this diagram into a tabular layout?"
+    },
+    {
+        "gpt": "Certainly. Here's a tabular representation of the details from the diagram:\r\n\r\n**Industries That Employ the Most Near-Minimum-Wage Workers**\r\n\r\n| Industry                           | Number of Workers |\r\n|------------------------------------|-------------------|\r\n| Restaurants and other food services| 3,754,000         |\r\n| Grocery stores                     | 902,400           |\r\n| Department and discount stores     | 650,200           |\r\n| Construction                       | 633,100           |\r\n| Elementary and secondary schools   | 562,900           |\r\n\r\n**Most Common Occupations Among Near-Minimum-Wage Workers**\r\n\r\n| Occupation            | Number of Workers |\r\n|-----------------------|-------------------|\r\n| Cashiers              | 1,407,400         |\r\n| Retail salespeople    | 1,099,300         |\r\n| Cooks                 | 1,046,400         |\r\n| Waiters and waitresses| 773,300           |\r\n| Janitors and building cleaners| 725,300   |\r\n\r\nNote: \"Near-minimum-wage workers\" are defined as non-self-employed workers, 18 and older, who are paid hourly and make more than the applicable minimum wage in their state but less than $10.10 an hour. The source of this information is Pew Research Center estimates based on 2013 IPUMS-CPS microdata."
+    }
+]

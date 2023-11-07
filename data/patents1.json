@@ -1,0 +1,8 @@
+[
+  {
+    "human": "What components are labeled in this patent diagram?"
+  },
+  {
+    "gpt": "The components labeled in the patent diagram are:\r\n\r\n1. EXTERNAL AUDIO SOURCE DRIVER\r\n2. S\/W USER INTERFACE\r\n3. EQ. TEMPLATES\r\n4. DISK READER\r\n5. AUTOMATIC MULTICHANNEL EQUALIZATION CONTROLLER\r\n6. ADAPTIVE USER INTERFACE TEMPLATES\r\n7. DECODER AND LOGIC\r\n8. PROG. MULTICHANNEL AUDIO PROCESSOR\r\n9. VIDEO PROCESSOR\r\n10. IDENTIFIC. LIST\r\n11. TO SPEAKERS\r\n12. TO MONITOR\/TV"
+  }
+]

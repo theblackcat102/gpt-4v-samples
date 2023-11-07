@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Can you pull data from this image and put it into JSON format?"
+  },
+  {
+    "gpt": "Yes, here's the extracted data from the image in JSON format:\r\n\r\n```json\r\n{\r\n  \"header\": \"\u80A1\u4EA4\u52A9\u529B\u8BA1\",\r\n  \"date_range\": {\r\n    \"start_date\": \"11\u670814\u65E5\",\r\n    \"end_date\": \"11\u670820\u65E5\"\r\n  },\r\n  \"subheader\": \"\u80A1\u4EA4\u52A9\u529B\u8BA1\u6982\u89C8\",\r\n  \"date_detail\": {\r\n    \"start_date\": \"5\u670811\u65E5\",\r\n    \"end_date\": \"11\u670813\u65E5\",\r\n    \"days_count\": 46\r\n  },\r\n  \"data\": [\r\n    {\r\n      \"name\": \"\u7A33\u76C8\u4EBA\u6570\",\r\n      \"value\": 162,\r\n      \"change_percentage\": \"-33.1%\"\r\n    },\r\n    {\r\n      \"name\": \"\u4E8F\u635F\u5E10\u6237\u6570\",\r\n      \"value\": 66,\r\n      \"change_percentage\": \"-38.9%\"\r\n    },\r\n    {\r\n      \"name\": \"\u7C89\u4E1D\u603B\u6570\",\r\n      \"value\": 224,\r\n      \"change_percentage\": \"+25.8%\"\r\n    }\r\n  ],\r\n  \"note\": \"\u4F60\u5206\u4EAB\u7684\u5185\u5BB9\u53D8\u5F97\"\r\n}\r\n```\r\n\r\nI hope this helps!"
+  }
+]

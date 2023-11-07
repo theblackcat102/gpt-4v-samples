@@ -1,0 +1,14 @@
+[
+    {
+        "human": "What is the man doing in the image?"
+    },
+    {
+        "gpt": "The man in the image is surfing on a wave."
+    },
+    {
+        "human": "Generate a detailed description suited for this image,  describe not only the main subject of the image, but also its surroundings, background, text found in the image, styles, coloration, etc"
+    },
+    {
+        "gpt": "The image captures a male surfer, actively riding a wave. He is positioned atop a vibrant surfboard with neon green and black stripes, which contrasts vividly against the subdued colors of the water. As he balances, water splashes around the board, emphasizing motion and the dynamics of the surf. He dons a pink wetsuit, which stands out prominently against the surrounding water. His posture is one of concentration and balance, indicating his engagement in the sport. \r\n\r\nIn the background, the vast expanse of the calm sea stretches out, its tones varying from a muted gray to deeper shades of blue-green, suggesting that it might be an overcast day. The horizon is clear, separating the sea from the light gray sky above.\r\n\r\nA noticeable detail is the text \"JASON MULCH PHOTOGRAPHY\" written in bold white letters against a dark backdrop, running horizontally along the bottom of the image. This indicates the photographer's watermark or branding.\r\n\r\nOverall, the image portrays a moment of action, highlighted by the contrast between the surfer's vivid gear and the serene colors of nature. The watermark serves as a signature, giving credit to the photographer while not distracting from the main focus of the picture."
+    }
+]

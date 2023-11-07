@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Extract any information in this into a structured json"
+  },
+  {
+    "gpt": "Here's the extracted information in a structured JSON format:\r\n\r\n```json\r\n{\r\n  \"Analytics\": {\r\n    \"Overview\": {\r\n      \"Video Views\": {\r\n        \"Total\": 4453224,\r\n        \"Last 7 Days\": {\r\n          \"Jan 29\": null,\r\n          \"Jan 30\": null,\r\n          \"Jan 31\": null,\r\n          \"Feb 01\": null,\r\n          \"Feb 02\": null,\r\n          \"Feb 03\": 909300,\r\n          \"Feb 04\": null\r\n        }\r\n      },\r\n      \"Followers\": {\r\n        \"Total\": 1745876,\r\n        \"Last 7 Days\": {\r\n          \"Jan 29\": null,\r\n          \"Jan 30\": null,\r\n          \"Jan 31\": null,\r\n          \"Feb 01\": null,\r\n          \"Feb 02\": null,\r\n          \"Feb 03\": 1700000,\r\n          \"Feb 04\": 1734424\r\n        }\r\n      },\r\n      \"Profile Views\": {\r\n        \"Last 7 Days\": {\r\n          \"Jan 29\": null,\r\n          \"Jan 30\": null,\r\n          \"Jan 31\": null,\r\n          \"Feb 01\": null,\r\n          \"Feb 02\": null,\r\n          \"Feb 03\": null,\r\n          \"Feb 04\": null\r\n        }\r\n      }\r\n    }\r\n  }\r\n}\r\n```\r\n\r\nNote: The values for certain dates in the \"Last 7 Days\" section have been set to `null` because the specific numbers for those dates are not visible in the provided image."
+  }
+]

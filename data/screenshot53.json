@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Help me extract information in this image into JSON"
+  },
+  {
+    "gpt": "Sure, here's the extracted information from the image in JSON format:\r\n\r\n```json\r\n{\r\n  \"ScreenTitle\": \"Analytics\",\r\n  \"Video\": {\r\n    \"ThumbnailCaption\": \"They set my boy up \uD83D\uDE0E\",\r\n    \"Duration\": \"56.14s\",\r\n    \"PostTime\": \"01-26-2022 3:59 PM\"\r\n  },\r\n  \"Metrics\": {\r\n    \"TotalPlays\": \"58.7K\",\r\n    \"Likes\": \"16.2K\",\r\n    \"Comments\": 221,\r\n    \"Shares\": 679,\r\n    \"LastUpdated\": \"02-09-2022\",\r\n    \"TotalPlayTime\": \"480h:58m:22s\",\r\n    \"TotalPlayTimeChange\": \"+18.7h vs 1d ago\",\r\n    \"AverageWatchTime\": \"31.3s\",\r\n    \"AverageWatchTimeChange\": \"-0.1s vs 1d ago\",\r\n    \"WatchedFullVideoPercentage\": \"34.21%\",\r\n    \"WatchedFullVideoChange\": \"-0.16% vs 1d ago\",\r\n    \"ReachedAudience\": \"43,366\",\r\n    \"ReachedAudienceChange\": \"+1,768 vs 1d ago\"\r\n  },\r\n  \"VideoViewsBySection\": {\r\n    \"PersonalProfile\": \"52%\",\r\n    \"Following\": \"44%\"\r\n  },\r\n  \"VideoViewsByRegion\": {\r\n    \"UnitedStates\": \"91%\"\r\n  }\r\n}\r\n```\r\n\r\nThis JSON representation captures the details present in the image. If there's any other detail or modification needed, let me know!"
+  }
+]

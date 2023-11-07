@@ -1,0 +1,14 @@
+[
+    {
+        "human": "How many people are skiing in the image?"
+    },
+    {
+        "gpt": "There are 2 people skiing in the image."
+    },
+    {
+        "human": "Generate a detailed description suited for this image,  describe not only the main subject of the image, but also its surroundings, background, text found in the image, styles, coloration, etc"
+    },
+    {
+        "gpt": "The image depicts a snowy scene at a ski slope, captured during what appears to be late afternoon or early evening, given the soft lighting. Two skiers are prominently featured: \r\n\r\n1. The skier in the foreground is dressed in a combination of blue and white ski gear, complete with a helmet and goggles. The individual is leaning forward slightly, indicating motion, with skis parallel to one another. The ski poles are positioned to the side, suggesting they're in mid-stride.\r\n\r\n2. Behind this skier, there's another individual dressed in a bright red jacket paired with tan pants. This skier also wears a helmet and goggles and is holding onto ski poles, with a slightly more upright posture compared to the first skier.\r\n\r\nTo the left of the image, there's a third person, though they seem to be standing stationary, not skiing. This individual is also dressed in a red outfit, making them blend with the other skier in red, but they are positioned further back.\r\n\r\nThe background reveals a dense tree line, consisting mainly of tall, leafless trees, indicating a winter setting. Between the skiers and the trees, there's a reddish-orange marker or flag, possibly indicating a boundary or a specific ski trail. A yellow pole stands to the right, though its purpose isn't entirely clear from the image.\r\n\r\nThe snow-covered ground exhibits multiple tracks from skiers, suggesting that the area is frequently used. The overall coloration of the image is dominated by the white snow, contrasting with the vibrant reds of the skiers' outfits and the subdued hues of the trees and sky. The ambiance evokes a sense of chilly winter recreation, with skiers enjoying the slopes."
+    }
+]

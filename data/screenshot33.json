@@ -1,0 +1,8 @@
+[
+  {
+    "human": "Convert any data in this image to JSON"
+  },
+  {
+    "gpt": "Here's the data from the image converted to JSON format:\r\n\r\n```json\r\n{\r\n  \"Insights\": {\r\n    \"CONTENT\": {},\r\n    \"ACTIVITY\": {\r\n      \"AccountsReached\": {\r\n        \"DateRange\": \"Jul 07 - Jul 13\",\r\n        \"Total\": 510017\r\n      },\r\n      \"Daily\": {\r\n        \"Mon\": 160200,\r\n        \"Tue\": 131400,\r\n        \"Wed\": 113800,\r\n        \"Thu\": 119500,\r\n        \"Fri\": 123000,\r\n        \"Sat\": 122300,\r\n        \"Sun\": 125400\r\n      },\r\n      \"Comparison\": {\r\n        \"Reach\": \"-225,124 vs. Jun 30 - Jul 06\",\r\n        \"Impressions\": \"-336,306 vs. Jun 30 - Jul 06\"\r\n      },\r\n      \"Impressions\": 1980965\r\n    },\r\n    \"AUDIENCE\": {}\r\n  },\r\n  \"Interactions\": {\r\n    \"Total\": 70018,\r\n    \"ActionsTaken\": {\r\n      \"DateRange\": \"Jul 07 - Jul 13\",\r\n      \"Daily\": {\r\n        \"Mon\": 11000,\r\n        \"Tue\": 10200,\r\n        \"Wed\": 9500,\r\n        \"Thu\": 9500,\r\n        \"Fri\": 10000,\r\n        \"Sat\": 10200,\r\n        \"Sun\": 9600\r\n      }\r\n    }\r\n  },\r\n  \"ProfileVisits\": {\r\n    \"Comparison\": \"-4,619 vs. Jun 30 - Jul 06\",\r\n    \"Total\": 70018\r\n  }\r\n}\r\n```\r\n\r\nNote: I've made a few assumptions on key names based on the content of the image."
+  }
+]
